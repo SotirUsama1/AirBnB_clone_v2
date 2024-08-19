@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ProjectSettings.json
+/.vs/AirBnB_clone_v2/FileContentIndex/c5db2cbf-f37f-48d0-b06e-f67a092f9a57.vsidx
+/.vs/PythonSettings.json
+/.vs/slnx.sqlite
+/.vs/AirBnB_clone_v2/FileContentIndex/cc521fb4-1d23-4147-b136-28bd063de98b.vsidx
+/.vs/AirBnB_clone_v2/FileContentIndex/79b0c92d-5d45-4086-9910-ae40e46d2e97.vsidx
+/.vs/AirBnB_clone_v2/FileContentIndex/7fa68014-3319-4f44-b445-0b01d55c2366.vsidx
+*.vsidx
